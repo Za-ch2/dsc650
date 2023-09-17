@@ -1,0 +1,122 @@
+{
+  "619_dyer_rad": {
+    "visit_id": 619,
+    "person_id": "dyer",
+    "quantity": "rad",
+    "reading": 9.82
+  },
+  "619_dyer_sal": {
+    "visit_id": 619,
+    "person_id": "dyer",
+    "quantity": "sal",
+    "reading": 0.13
+  },
+  "622_dyer_rad": {
+    "visit_id": 622,
+    "person_id": "dyer",
+    "quantity": "rad",
+    "reading": 7.8
+  },
+  "622_dyer_sal": {
+    "visit_id": 622,
+    "person_id": "dyer",
+    "quantity": "sal",
+    "reading": 0.09
+  },
+  "734_pb_rad": {
+    "visit_id": 734,
+    "person_id": "pb",
+    "quantity": "rad",
+    "reading": 8.41
+  },
+  "734_lake_sal": {
+    "visit_id": 734,
+    "person_id": "lake",
+    "quantity": "sal",
+    "reading": 0.05
+  },
+  "734_pb_temp": {
+    "visit_id": 734,
+    "person_id": "pb",
+    "quantity": "temp",
+    "reading": -21.5
+  },
+  "735_pb_rad": {
+    "visit_id": 735,
+    "person_id": "pb",
+    "quantity": "rad",
+    "reading": 7.22
+  },
+  "735_pb_sal": {
+    "visit_id": 735,
+    "person_id": "pb",
+    "quantity": "sal",
+    "reading": 0.06
+  },
+  "735_pb_temp": {
+    "visit_id": 735,
+    "person_id": "pb",
+    "quantity": "temp",
+    "reading": -26.0
+  },
+  "751_pb_rad": {
+    "visit_id": 751,
+    "person_id": "pb",
+    "quantity": "rad",
+    "reading": 4.35
+  },
+  "751_pb_temp": {
+    "visit_id": 751,
+    "person_id": "pb",
+    "quantity": "temp",
+    "reading": -18.5
+  },
+  "752_lake_rad": {
+    "visit_id": 752,
+    "person_id": "lake",
+    "quantity": "rad",
+    "reading": 2.19
+  },
+  "752_lake_sal": {
+    "visit_id": 752,
+    "person_id": "lake",
+    "quantity": "sal",
+    "reading": 0.09
+  },
+  "752_lake_temp": {
+    "visit_id": 752,
+    "person_id": "lake",
+    "quantity": "temp",
+    "reading": -16.0
+  },
+  "752_roe_sal": {
+    "visit_id": 752,
+    "person_id": "roe",
+    "quantity": "sal",
+    "reading": 41.6
+  },
+  "837_lake_rad": {
+    "visit_id": 837,
+    "person_id": "lake",
+    "quantity": "rad",
+    "reading": 1.46
+  },
+  "837_lake_sal": {
+    "visit_id": 837,
+    "person_id": "lake",
+    "quantity": "sal",
+    "reading": 0.21
+  },
+  "837_roe_sal": {
+    "visit_id": 837,
+    "person_id": "roe",
+    "quantity": "sal",
+    "reading": 22.5
+  },
+  "844_roe_rad": {
+    "visit_id": 844,
+    "person_id": "roe",
+    "quantity": "rad",
+    "reading": 11.25
+  }
+}
